@@ -26,8 +26,8 @@ This application helps manage books, members, borrowing, and returns efficiently
 
 ---
 
-## 🖼 Screenshot
-Library Management System Dashboard <img width="1041" height="502" alt="Main Menu" src="https://github.com/user-attachments/assets/283792b5-5d46-496d-9285-41e580f1ff02" />
+## 🖼 System Dashboard
+ <img width="1041" height="502" alt="Main Menu" src="https://github.com/user-attachments/assets/283792b5-5d46-496d-9285-41e580f1ff02" />
 
 
 ---

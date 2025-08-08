@@ -63,12 +63,17 @@ This application helps manage books, members, borrowing, and returns efficiently
    Update your DB connection settings in the Java file:
 
 ```java
-   String url = jdbc:mysql://localhost/library_db;
+   String url = "jdbc:mysql://localhost/library_db";
    String user = root;
-   String pass = ;
+   String pass = "";
 ```
+5. **Run the Project**
+
+   * Press `F6` in NetBeans.
 
 ---
+
+## 📸 More Screenshots
 
 
 

@@ -61,7 +61,7 @@ This application helps manage books, members, borrowing, and returns efficiently
 
 4. **Configure Database Connection**
    Update your DB connection settings in the Java file:
-''' java
+''' cmd
    String url = jdbc:mysql://localhost/library_db;
    String user = root;
    String pass = ;

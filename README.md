@@ -65,7 +65,6 @@ This application helps manage books, members, borrowing, and returns efficiently
    String url = jdbc:mysql://localhost/library_db;
    String user = root;
    String pass = ;
-'''
 
 ---
 

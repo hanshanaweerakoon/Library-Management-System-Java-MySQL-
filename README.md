@@ -73,13 +73,9 @@ Library Management System Dashboard <img width="1041" height="502" alt="Main Men
 
 ## 📸 More Screenshots
 
-<img width="1366" height="768" alt="Login" src="https://github.com/user-attachments/assets/4facd57d-ee85-4ab9-a469-28891815fdb3" />
+<img width="979" height="545" alt="Login" src="https://github.com/user-attachments/assets/305df5da-3565-4a81-9f32-90c051f83fdb" />
 
-<img width="1366" height="768" alt="Books" src="https://github.com/user-attachments/assets/daca3442-d211-4a38-8731-dfb404554abc" />
-
-
-<img width="1366" height="768" alt="Daily report" src="https://github.com/user-attachments/assets/6f3e0b8f-6a17-4edd-87a4-ba53dca79cfe" />
-
-<img width="1366" height="768" alt="Inquiry" src="https://github.com/user-attachments/assets/1db64064-eec6-4f1a-b1c8-265497e51068" />
-
-<img width="1366" height="768" alt="Members" src="https://github.com/user-attachments/assets/dde53842-39bf-4cc4-b114-58ab754fa204" />
+<img width="1235" height="665" alt="Inquiry" src="https://github.com/user-attachments/assets/d5bd19b9-23a5-4b91-aad5-9b5e4765516e" />
+<img width="1123" height="661" alt="Daily report" src="https://github.com/user-attachments/assets/6997dc72-2282-4d2e-b3af-93af886a049f" />
+<img width="1183" height="621" alt="Books" src="https://github.com/user-attachments/assets/17c23861-702f-45b2-ae58-05de487087bb" />
+<img width="1296" height="670" alt="Members" src="https://github.com/user-attachments/assets/fc978ee9-8500-4ec9-a49e-c911598fe120" />

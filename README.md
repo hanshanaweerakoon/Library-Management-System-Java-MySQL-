@@ -45,8 +45,7 @@ This application helps manage books, members, borrowing, and returns efficiently
 ## 📥 Installation & Setup
 1. **Clone the repository**
    bash
-   git clone [https://github.com/hanshanaweerakoon/Library-Management-System-Java-MySQL-.git]
-`
+   git clone https://github.com/hanshanaweerakoon/Library-Management-System-Java-MySQL-.git
 
 2. **Open in NetBeans**
 

@@ -30,8 +30,6 @@ This application helps manage books, members, borrowing, and returns efficiently
 Library Management System Dashboard <img width="1041" height="502" alt="Main Menu" src="https://github.com/user-attachments/assets/283792b5-5d46-496d-9285-41e580f1ff02" />
 
 
-(The screenshot above shows the main dashboard with all available operations.)
-
 ---
 
 ## 🛠 Technologies Used
@@ -75,6 +73,13 @@ Library Management System Dashboard <img width="1041" height="502" alt="Main Men
 
 ## 📸 More Screenshots
 
+<img width="1366" height="768" alt="Login" src="https://github.com/user-attachments/assets/4facd57d-ee85-4ab9-a469-28891815fdb3" />
+
+<img width="1366" height="768" alt="Books" src="https://github.com/user-attachments/assets/daca3442-d211-4a38-8731-dfb404554abc" />
 
 
+<img width="1366" height="768" alt="Daily report" src="https://github.com/user-attachments/assets/6f3e0b8f-6a17-4edd-87a4-ba53dca79cfe" />
 
+<img width="1366" height="768" alt="Inquiry" src="https://github.com/user-attachments/assets/1db64064-eec6-4f1a-b1c8-265497e51068" />
+
+<img width="1366" height="768" alt="Members" src="https://github.com/user-attachments/assets/dde53842-39bf-4cc4-b114-58ab754fa204" />

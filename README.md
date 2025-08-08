@@ -41,39 +41,31 @@ This application helps manage books, members, borrowing, and returns efficiently
 
 ---
 
-## 📂 Project Structure
 
-LibraryManagementSystem/
-│
-├── src/                      # Java source files
-│   ├── library/              # Your Java packages
-│   │   ├── Main.java
-│   │   ├── DatabaseConnection.java
-│   │   ├── Book.java
-│   │   ├── Member.java
-│   │   └── ...other classes
-│   └── META-INF/             # Manifest files (if needed)
-│
-├── web/                      # JSP/HTML/CSS/JS files (if using web module)
-│   ├── index.jsp
-│   ├── style.css
-│   └── script.js
-│
-├── nbproject/                 # NetBeans project configuration
-│   ├── project.properties
-│   ├── private/
-│   └── ...
-│
-├── database/                  # Database export & related files
-│   └── library.sql
-│
-├── lib/                       # External JAR dependencies (e.g., MySQL connector)
-│   └── mysql-connector-java-8.x.x.jar
-│
-├── README.md                  # Project documentation (what we wrote earlier)
-├── .gitignore                 # Git ignore rules (to skip build files, etc.)
-├── pom.xml                    # Maven configuration (if Maven project)
-└── build.xml                  # Ant build file (if Ant project)
+## 📥 Installation & Setup
+1. **Clone the repository**
+   bash
+   git clone https://github.com/[yourusername]/[repositoryname].git
+`
+
+2. **Open in NetBeans**
+
+   * Go to File → Open Project → Select the project folder.
+
+3. **Database Setup**
+
+   * Start WAMP Server.
+   * Open `http://localhost/phpmyadmin`.
+   * Create a new database (e.g., `library_db`).
+   * Import `database/library.sql`.
+
+4. **Configure Database Connection**
+   Update your DB connection settings in the Java file:
+
+   java
+   String url = "jdbc:mysql://localhost/library_db";
+   String user = "root";
+   String pass = "";
 
 
 ---

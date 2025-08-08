@@ -76,10 +76,18 @@ This application helps manage books, members, borrowing, and returns efficiently
 
 <img width="979" height="545" alt="Login" src="https://github.com/user-attachments/assets/305df5da-3565-4a81-9f32-90c051f83fdb" />
 
+---
+
 <img width="1235" height="665" alt="Inquiry" src="https://github.com/user-attachments/assets/d5bd19b9-23a5-4b91-aad5-9b5e4765516e" />
+
+---
 
 <img width="1123" height="661" alt="Daily report" src="https://github.com/user-attachments/assets/6997dc72-2282-4d2e-b3af-93af886a049f" />
 
+---
+
 <img width="1183" height="621" alt="Books" src="https://github.com/user-attachments/assets/17c23861-702f-45b2-ae58-05de487087bb" />
+
+---
 
 <img width="1296" height="670" alt="Members" src="https://github.com/user-attachments/assets/fc978ee9-8500-4ec9-a49e-c911598fe120" />

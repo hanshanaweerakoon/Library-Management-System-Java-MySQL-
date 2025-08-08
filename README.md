@@ -45,7 +45,7 @@ This application helps manage books, members, borrowing, and returns efficiently
 ## 📥 Installation & Setup
 1. **Clone the repository**
    bash
-   git clone https://github.com/[yourusername]/[repositoryname].git
+   git clone [https://github.com/hanshanaweerakoon/Library-Management-System-Java-MySQL-.git]
 `
 
 2. **Open in NetBeans**
@@ -61,12 +61,11 @@ This application helps manage books, members, borrowing, and returns efficiently
 
 4. **Configure Database Connection**
    Update your DB connection settings in the Java file:
-
-   java
+'''
    String url = "jdbc:mysql://localhost/library_db";
    String user = "root";
    String pass = "";
-
+'''
 
 ---
 
